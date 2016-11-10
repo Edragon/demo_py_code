@@ -1,6 +1,6 @@
 # Vs code markdown 设置
 
-> markdown 语法， #标题，##二级标题 ... >段落块， \*斜体* **粗体**
+> markdown 语法， #标题，##二级标题 ... >段落块， \*斜体* **粗体** ~~前后删除线
 > markdown 链接：[idehe] (http://www.idehe.com)去掉中间空格
 > markdown 优点: 集成 git， 左右窗口预览，代码提示，命令行调用，debug， emmet，
 
